@@ -26,6 +26,19 @@ docker image prune
 docker image list
 ```
 
+```bash
+# Build a container with the name you specify
+docker build --tag my-name-app .
+```
+
+```bash
+# Here is how I run a node app from Docker
+# Notice the ports. 3000:3000
+# 8000 is the port I want to export the app in for myself.
+# 3000 is the port Im using in my node app.
+docker run --publish 8000:3000  my-node-app
+```
+
 ### Other Notes
 In containers you might not know which distribution you are in running the following command is a trick to know:
 ```bash
