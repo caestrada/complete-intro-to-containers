@@ -11,9 +11,13 @@ Course Website - [LINK](https://btholt.github.io/complete-intro-to-containers/)
 ### Docker Notes
 * In **Docker** a pre-made `container` is called and `image`.
 
-#### Commands
+#### Docker CLI
 ```bash
 docker ps   # will show you all docker containers running
+```
+```bash
+# Docker images could take a lot of space in your computer. To clear some of those run:
+docker image prune
 ```
 
 ### Other Notes
