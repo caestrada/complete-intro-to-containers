@@ -2,7 +2,8 @@
 
 - [X] Introduction
 - [X] Containers
-- [ ] Docker
+- [X] Docker
+- [ ] The Dockerfile
 
 Course Website - [LINK](https://btholt.github.io/complete-intro-to-containers/)
 
@@ -18,6 +19,11 @@ docker ps   # will show you all docker containers running
 ```bash
 # Docker images could take a lot of space in your computer. To clear some of those run:
 docker image prune
+```
+
+```bash
+# To see all the images
+docker image list
 ```
 
 ### Other Notes
