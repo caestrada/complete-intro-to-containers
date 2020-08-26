@@ -4,7 +4,7 @@
 - [X] Containers
 - [X] Docker
 - [X] The Dockerfile
-- [ ] Making Tiny Containers
+- [X] Making Tiny Containers
 - [ ] Features in Docker
 - [ ] Multi Container Projects
 - [ ] OCI
