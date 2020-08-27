@@ -5,10 +5,10 @@
 - [X] Docker
 - [X] The Dockerfile
 - [X] Making Tiny Containers
-- [ ] Features in Docker
-- [ ] Multi Container Projects
-- [ ] OCI
-- [ ] Wrapping Up
+- [X] Features in Docker
+- [X] Multi Container Projects
+- [X] OCI
+- [X] Wrapping Up
 
 Course Website - [LINK](https://btholt.github.io/complete-intro-to-containers/)
 
